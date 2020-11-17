@@ -1,3 +1,4 @@
+/*
 export enum Row {
   A,
   B,
@@ -93,3 +94,4 @@ export class Reservations {
     return true
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import { expect } from "chai"
 import { ReserveSeat, ReserveSeatHandler, Row, Col, Reservations } from "../../src/seat"
 
@@ -12,3 +13,4 @@ describe("A Customer reserves specific seats at a specific screening (for simpli
     expect(res).eql("OK")
   })
 })
+*/
