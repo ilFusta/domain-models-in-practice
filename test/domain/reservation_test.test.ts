@@ -15,7 +15,7 @@ import {
   ReservationHandler,
 } from "../../src/domain"
 
-describe("MODEL: A Customer reserves specific seats at a specific screening (for simplicity, assume there exists only one screening for the time beeing). If availble, the seats should be reserved.", () => {
+describe("A Customer reserves specific seats at a specific screening (for simplicity, assume there exists only one screening for the time beeing). If availble, the seats should be reserved.", () => {
   //Mock Data
   const customers: Customers = new Customers([
     new Customer("customer1", "Jay"),

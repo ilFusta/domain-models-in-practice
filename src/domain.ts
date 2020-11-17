@@ -87,7 +87,7 @@ export class Movie {
   private id: MovieId
   private title: string
 
-  constructor(id: string, title: String) {
+  constructor(id: string, title: string) {
     this.id = new MovieId(id)
     this.title = title
   }
